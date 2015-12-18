@@ -63,7 +63,9 @@ I can explain difficult things using simple words. I explained difficult tax con
 01.2015 -07.2015
 
 edX: MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
+
 edX: MITx: 6.00.2x Introduction to Computational Thinking and Data Science
+
 Udacity: Intro to Programming Nanodegree (finished it in a month)
 
 ######Moscow state law academy
